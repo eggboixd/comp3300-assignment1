@@ -5,34 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Lvl_ThirdPerson.umap",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Blueprints/BP_Ball.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CI/P2YPON55215KHOC39NJYC4.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Blueprints/GM_SpeedBall.uasset",
 				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Blueprints/PC_SpeedBall.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Blueprints/Interfaces/INT_BPBall.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Blueprints/BP_Star.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Blueprints/Interfaces/INT_GameMode.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/MA/V59S62SZGEP19NNWXQX4ZH.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/VF/GZ3AA9O50Q2DB05O0XFT2R.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/O6/H7CD7FOPD9LN1SMJ95UKT7.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/UI/WB_Main.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Blueprints/BP_StarDouble.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/1A/8EEJWC7JZG9NRGQS4MH5DJ.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/P5/ZZ90SU4AVWHAQLMWJNKUQP.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/U5/JVES0VI82RE1HQXIUUYLC9.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/NG/4GHU0TF53BSINY3LVZHKOU.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/3M/7XHC73E57L9Y5SDMUN8B6N.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/YO/5WBV8XAZEFADFCQ7LIGW1R.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/W6/91DEWWDGJHLDYLTOPQS30H.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/DV/5IYX7F006SQDHVH7TV4R5E.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/DP/FCIN9M3TCQ9D6QJY0XW90X.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/46/SJP1OHFJEHL67F6CGSRTKY.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/6C/CTT337U2AMKVOF6A0E8LXG.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/G1/ONQQGXNX6L2ZYO2HLPCUZC.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/7O/3A0IHA4OF9V7BWFIRW3AO3.uasset",
-				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/UI/icons/stah.uasset"
+				"C:/Users/fadhi/OneDrive/Documents/Unreal Projects/comp3300_assignment/Content/ThirdPerson/Blueprints/BP_Ball.uasset"
 			]
 		}
 	]
