@@ -1,0 +1,32 @@
+========================================
+            ATTRIBUTION FILE
+========================================
+
+Project: comp3300-assignment1
+Author: Fadhil Revinno Hairiman
+Date: 2025-10-03
+
+This project uses third-party resources and libraries. All credits, licenses, and sources are listed below.
+
+----------------------------------------
+1. Resource / Tutorial: Unreal Engine 5 Blueprints (UE5): Develop Your First Two Games
+   Author / Creator: Pixel Helmet
+   Source URL: https://www.skillshare.com/en/classes/unreal-engine-5-blueprints-ue5-develop-your-first-two-games/491032231/projects?via=search-layout-grid
+   Notes / Usage: General guidance for UE5 Blueprint implementation
+
+2. Resource / Tutorial: Unreal Engine 5 Tutorial - Physics Movement
+   Author / Creator: Ryan Laley
+   Source URL: https://www.youtube.com/watch?v=JV--qneCf0k&t=35s
+   Notes / Usage: Reference for camera movement in the project
+
+----------------------------------------
+3. Library: Supergrid
+   Author / Creator: Fab.com
+   Source URL: https://www.fab.com/listings/a6ab4843-7c8a-47d1-912c-fc1c3553df23
+   License: Standard License (see source for full terms)
+   Last Updated: August 30, 2025
+   Notes / Usage: Used for asset templates
+
+----------------------------------------
+License / Disclaimer:
+This file is for attribution purposes only. Please refer to each resource's or library's license for full details.
